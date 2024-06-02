@@ -5,14 +5,14 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': "url('/src/public/hero.png')",
-        'about': "url('/src/public/about.jpg')",
-        'smoke': "url('/src/public/smoke.jpg')",
-        'earth': "url('/src/public/earth.png')",
-        'us-flag': "url('/src/public/usflag.jpeg')",
-        'how-you-can-help': "url('/src/public/howyoucanhelp.jpeg')",
-        'resources': "url('/src/public/resources.jpeg')",
-        'sources': "url('/src/public/sources.png')",
+        'hero': "url('/hero.png')",
+        'about': "url('/about.jpg')",
+        'smoke': "url('/smoke.jpg')",
+        'earth': "url('/earth.png')",
+        'us-flag': "url('/usflag.jpeg')",
+        'how-you-can-help': "url('/howyoucanhelp.jpeg')",
+        'resources': "url('/resources.jpeg')",
+        'sources': "url('/sources.png')",
       }
     },
     fontFamily: {

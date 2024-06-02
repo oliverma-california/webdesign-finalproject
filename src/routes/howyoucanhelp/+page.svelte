@@ -19,7 +19,7 @@
   
   <div class="overflow-hidden rounded-3xl shadow-2xl bg-white h-min mx-40 my-20 flex font-titillium gap-20">
 
-    <img class="w-[30%] object-cover" src="/src/public/usereusableproducts.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
+    <img class="w-[30%] object-cover" src="/usereusableproducts.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
 
     <div class="pr-20 py-10">
       <div class="text-5xl font-bold text-justify align-text-top text-red-700">USE REUSABLE PRODUCTS</div>
@@ -38,7 +38,7 @@
 
   <div class="overflow-hidden rounded-3xl shadow-2xl bg-white h-min mx-40 my-20 flex font-titillium gap-20">
 
-    <img class="w-[30%] object-cover" src="/src/public/buysecondhand.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
+    <img class="w-[30%] object-cover" src="/buysecondhand.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
 
     <div class="pr-20 py-10">
       <div class="text-5xl font-bold text-justify align-text-top text-orange-400">BUY SECONDHAND</div>
@@ -51,7 +51,7 @@
 
   <div class="overflow-hidden rounded-3xl shadow-2xl bg-white h-min mx-40 my-20 flex font-titillium gap-20">
 
-    <img class="w-[30%] object-cover" src="/src/public/donateandsell.jpg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
+    <img class="w-[30%] object-cover" src="/donateandsell.jpg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
 
     <div class="pr-20 py-10">
       <div class="text-5xl font-bold text-justify align-text-top text-yellow-400">DONATE AND SELL</div>
@@ -64,7 +64,7 @@
 
   <div class="overflow-hidden rounded-3xl shadow-2xl bg-white h-min mx-40 my-20 flex font-titillium gap-20">
 
-    <img class="w-[30%] object-cover" src="/src/public/supportsustainablebrands.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
+    <img class="w-[30%] object-cover" src="/supportsustainablebrands.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
 
     <div class="pr-20 py-10">
       <div class="text-5xl font-bold text-justify align-text-top text-green-600">SUPPORT SUSTAINABLE BRANDS</div>
@@ -77,7 +77,7 @@
 
   <div class="overflow-hidden rounded-3xl shadow-2xl bg-white h-min mx-40 my-20 flex font-titillium gap-20">
 
-    <img class="w-[30%] object-cover" src="/src/public/getinvolved.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China's and India's through 2021. Credit: Our World in Data"/>
+    <img class="w-[30%] object-cover" src="/getinvolved.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China's and India's through 2021. Credit: Our World in Data"/>
 
     <div class="pr-20 py-10">
       <div class="text-5xl font-bold text-justify align-text-top text-blue-400">GET INVOLVED</div>

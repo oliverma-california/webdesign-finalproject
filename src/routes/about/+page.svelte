@@ -24,14 +24,14 @@
         That's almost
       </div>
     </div>
-    <img class="rounded-3xl w-max" src="/src/public/uscarbonfootprint.jpg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
+    <img class="rounded-3xl w-max" src="/uscarbonfootprint.jpg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China's and India's through 2021. Credit: Our World in Data"/>
   
   </div>
   
   <div class="h-min w-full px-40 py-10 grid grid-cols-2 justify-center items-center font-titillium gap-20">
 
     <div>
-      <img class="rounded-3xl" src="/src/public/worldbiocapacitydeficit.jpeg" alt="The ecological deficit has been increasing ever since 1970. (Data: Global Footprint Network)"/>
+      <img class="rounded-3xl" src="/worldbiocapacitydeficit.jpeg" alt="The ecological deficit has been increasing ever since 1970. (Data: Global Footprint Network)"/>
       <div class="py-2 text-gray-500 italic">The ecological deficit has been increasing ever since 1970. (Data: Global Footprint Network)</div>
     </div>
     <div>
@@ -56,7 +56,7 @@
     </div>
 
     <div>
-      <img class="rounded-3xl" src="/src/public/usbiocapacitydeficit.jpeg" alt="The USA’s total Ecological Footprint has decreased over the past decade, but this trend was reversed in 2017 and 2018 (Data: Global Footprint Network)"/>
+      <img class="rounded-3xl" src="/usbiocapacitydeficit.jpeg" alt="The USA’s total Ecological Footprint has decreased over the past decade, but this trend was reversed in 2017 and 2018 (Data: Global Footprint Network)"/>
       <div class="py-2 text-gray-500 italic">The USA’s total Ecological Footprint has decreased over the past decade, but this trend was reversed in 2017 and 2018 (Data: Global Footprint Network)</div>
     </div>
   
@@ -67,7 +67,7 @@
 
   <div class="h-min w-full px-40 py-10 grid grid-cols-2 justify-center items-center font-titillium gap-20">
 
-    <img class="rounded-3xl" src="/src/public/co2vspopulation.png" alt="Data source: Global Carbon Budget (2023) and other sources"/>
+    <img class="rounded-3xl" src="/co2vspopulation.png" alt="Data source: Global Carbon Budget (2023) and other sources"/>
     <div>
       <div class="text-5xl font-bold text-justify align-text-top">
         <span class="font-extrabold text-green-700">HIGH INCOME</span> COUNTRIES ARE RESPONSIBLE FOR THE MAJORITY OF THE
