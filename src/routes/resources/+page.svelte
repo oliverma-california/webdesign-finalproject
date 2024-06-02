@@ -1,7 +1,3 @@
-<script>
-  import { TrendingUp, Footprints } from "lucide-svelte";
-</script>
-
 <div class="h-[50vh] bg-resources bg-cover bg-blend-overlay bg-black/50 font-titillium">
   <div class="items-center justify-center w-full py-[12vh]">
     <div class="text-7xl font-bold text-white text-center py-10">Resources</div>
