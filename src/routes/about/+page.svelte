@@ -56,8 +56,8 @@
     </div>
 
     <div>
-      <img class="rounded-3xl" src="/usbiocapacitydeficit.jpeg" alt="The USA’s total Ecological Footprint has decreased over the past decade, but this trend was reversed in 2017 and 2018 (Data: Global Footprint Network)"/>
-      <div class="py-2 text-gray-500 italic">The USA’s total Ecological Footprint has decreased over the past decade, but this trend was reversed in 2017 and 2018 (Data: Global Footprint Network)</div>
+      <img class="rounded-3xl" src="/usbiocapacitydeficit.jpeg" alt="The USA's total Ecological Footprint has decreased over the past decade, but this trend was reversed in 2017 and 2018 (Data: Global Footprint Network)"/>
+      <div class="py-2 text-gray-500 italic">The USA's total Ecological Footprint has decreased over the past decade, but this trend was reversed in 2017 and 2018 (Data: Global Footprint Network)</div>
     </div>
   
   </div>
