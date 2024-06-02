@@ -1,7 +1,3 @@
-<script>
-  import { TrendingUp, Footprints } from "lucide-svelte";
-</script>
-
 <div class="h-[50vh] bg-how-you-can-help bg-cover bg-blend-overlay bg-black/50 font-titillium">
   <div class="items-center justify-center w-full py-[12vh]">
     <div class="text-7xl font-bold text-white text-center py-10">How You Can Help</div>
@@ -13,10 +9,6 @@
 
 <div class="overflow-auto bg-gradient-to-b from-gray-200 to-gray-200">
 
-
-
-
-  
   <div class="overflow-hidden rounded-3xl shadow-2xl bg-white h-min mx-40 my-20 flex font-titillium gap-20">
 
     <img class="w-[30%] object-cover" src="/usereusableproducts.jpeg" alt="Global carbon emissions began to rise measurably in the mid-nineteenth century. Total U.S. emissions still remained above China’s and India’s through 2021. Credit: Our World in Data"/>
